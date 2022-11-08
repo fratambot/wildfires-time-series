@@ -1,6 +1,6 @@
 #  Time Series Analysis of Wildfires in the US
 
-Final Project of the Coursera course “Specialized models: time series and survival analysis” by IBM.
+Final Project for the Coursera course “Specialized models: time series and survival analysis” by IBM.
 
 The notebook contains the whole analysis. 
 
